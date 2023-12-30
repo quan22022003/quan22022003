@@ -1,11 +1,7 @@
 <div style="text-align: center;">
-  <img src="https://giphy.com/embed/38I3v6VURNa6QzHJTn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200px' style='display: inline-block; vertical-align: middle;'>
   <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! Welcome to my Github page.</h3>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"></div>
-
-
 
 
 
