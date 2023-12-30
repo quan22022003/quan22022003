@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <iframe src="https://giphy.com/embed/38I3v6VURNa6QzHJTn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/38I3v6VURNa6QzHJTn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! Welcome to my Github page.</h3>
 </div>
 
