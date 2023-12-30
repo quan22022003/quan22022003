@@ -1,5 +1,6 @@
 <div style="text-align: center;">
-  <iframe src="https://giphy.com/embed/38I3v6VURNa6QzHJTn" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a     href="https://giphy.com/gifs/ProBitExchange-hello-hi-greetings-38I3v6VURNa6QzHJTn">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/38I3v6VURNa6QzHJTn" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a>href="https://giphy.com/gifs/ProBitExchange-hello-hi-greetings-38I3v6VURNa6QzHJTn">via GIPHY</a></p>
   <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! Welcome to my Github page.</h3>
 </div>
 
