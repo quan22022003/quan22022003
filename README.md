@@ -21,7 +21,7 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 - Machine learning libraries: TensorFlow, Scikit-learn
 - Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, GGPlot, Bayesplot
 - Database management: SQL, PostgreSQL, MySQL
-- Experience with time-series analysis
+- Experience with Bayesian and Time-series analysis
 
 
 ## Projects
