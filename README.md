@@ -25,12 +25,9 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 
 
 ## Projects
-- [Credit Risk Analysis](https://github.com/hiepnguyen1005/Credit-Risk-Analysis) - Utilized Logistic Regression models to classify good and bad loans using pooled and hierarchical methods. Achieved an accuracy of 71.9%.
-- [Predicting Football Results](https://github.com/hiepnguyen1005/Premier-League-Prediction) - Built a model to predict Premier League football match results using Decision Tree and Logistic Regression
 
 
-
-Please feel free to reach out to me if you would like to connect or discuss any potential opportunities!
+I am open to opportunities so feel free to reach me out.
 
 
 
