@@ -10,16 +10,17 @@
 ---
 # About me
 
-My name is Hiep, an aspiring data scientist with a passion for machine learning and a strong foundation in statistics and programming. I am currently pursuing a bachelor degree in data science and looking to gain industry experience through internships and real-world projects.
+My name is Quan Tran, a math-oriented data science major at Aalto University. I have a passion for machine learning and a strong foundation in Mathematics, Statistics, and Programming. I am looking for internship and real-world project opportunities to enhance my industry experience.
 
 ## Education
-- Bachelor of Science in Data Science, Aalto University (Expected graduation: July 2024)
+- Bachelor of Science in Data Science, Aalto University (Expected graduation: Dec 2024)
 
 ## Skills
-- Programming language: Python, R, Scala, Stan
-- Machine learning framework: TensorFlow, Scikit-learn
-- Data analysis and visualization tools: Pandas, NumPy, Matplotlib
-- Database management: SQL, PostgreSQL
+- Programming language: Scala, C/C++, JavaScript, Rust
+- Mathematical programming language: Python, R, Stan, MatLab
+- Machine learning libraries: TensorFlow, Scikit-learn
+- Data analysis and visualization libraries: Pandas, NumPy, Matplotlib, GGPlot, Bayesplot
+- Database management: SQL, PostgreSQL, MySQL
 - Experience with time-series analysis
 
 
