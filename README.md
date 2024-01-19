@@ -26,8 +26,10 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 
 ## Projects
 
+### Machine Learning/Data Analysis
+- [Modeling Esophagael Cancer from a Bayesian Perspective](https://github.com/quan22022003/Bayesian-Analysis-of-Esophageal-Cancer-Risk-Factors/) - Modeling the probability of developing Esophagael Cancer with Linear Logistic method. Achieved an accuracy of 80%.
 
-I am open to opportunities so feel free to reach me out.
+I am open to opportunities so please feel free to reach out.
 
 
 
