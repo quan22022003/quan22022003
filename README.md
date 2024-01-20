@@ -37,6 +37,10 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 ### Decision Analysis/Operations Research
 - [Purchasing Plane Ticket](https://github.com/quan22022003/decision-making-project) - A project aimed to solve a decision problem - deciding which plane ticket to buy - by employing Multi-Attribute Value Theory (MAVT) and value-focused thinking approach.
 
+### Web Development
+- [Quýt Lẹt Application](https://github.com/quan22022003/Drill-and-Practice) - A web application for practicing and managing multiple-choice questions. The application uses a three-tier architecture (client, server, database) and a layered architecture with four layers (views, controllers, services, database). It is built using Deno and Oak and is designed to facilitate learning through repeated practice of course material.
+- []() - 
+
 
 
 I am open to opportunities so please feel free to reach out.
