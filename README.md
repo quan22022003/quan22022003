@@ -39,7 +39,7 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 
 ### Web Development
 - [Quýt Lẹt Application](https://github.com/quan22022003/Drill-and-Practice) - A web application for practicing and managing multiple-choice questions. The application uses a three-tier architecture (client, server, database) and a layered architecture with four layers (views, controllers, services, database). It is built using Deno and Oak and is designed to facilitate learning through repeated practice of course material.
-- []() - 
+- [Shared Shopping Lists Web Application](https://github.com/quan22022003/shopping-lists-web) -  A web application designed for managing shared shopping lists. Users can create shopping lists, add items to them, mark items as collected, and deactivate shopping lists as needed. The project follows a three-tier architecture (client, server, database) and is organized using a layered architecture with four distinct layers: views, controllers, services, and database.
 
 
 
