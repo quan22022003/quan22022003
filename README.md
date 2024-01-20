@@ -32,9 +32,10 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 - [Predictive Modeling for Sleep Efficiency](https://github.com/quan22022003/Predictive-Modeling-for-Sleep-Efficiency-Using-Machine-Learning) - Modeling Sleep Effiency with Linear Regression method. Achieved a low Mean-square Error of 0.5%.
 
 ### Database Management
-- [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccinations events, and patient data for Corona vaccine distribution and treatment in Finland.
+- [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccination events, and patient data for Corona vaccine distribution and treatment in Finland.
 
 ### Decision Analysis/Operations Research
+- [Purchasing Plane Ticket](https://github.com/quan22022003/decision-making-project) - A project aimed to solve a decision problem - deciding which plane ticket to buy - by employing Multi-Attribute Value Theory (MAVT) and value-focused thinking approach.
 
 
 
