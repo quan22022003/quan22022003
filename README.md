@@ -35,7 +35,7 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 - [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccination events, and patient data for Corona vaccine distribution and treatment in Finland.
 
 ### Decision Analysis/Operations Research
-- [Purchasing Plane Ticket](https://github.com/quan22022003/decision-making-project) - A project aimed to solve a decision problem - deciding which plane ticket to buy - by employing Multi-Attribute Value Theory (MAVT) and value-focused thinking approach.
+- [Application of Multi-attribute Value Theory in Purchasing Plane Ticket](https://github.com/quan22022003/decision-making-project) - A project aimed to solve a decision problem - deciding which plane ticket to buy - by employing Multi-Attribute Value Theory (MAVT) and value-focused thinking approach.
 
 ### Web Development
 - [Quýt Lẹt Application](https://github.com/quan22022003/Drill-and-Practice) - A web application for practicing and managing multiple-choice questions. The application uses a three-tier architecture (client, server, database) and a layered architecture with four layers (views, controllers, services, database). It is built using Deno and Oak and is designed to facilitate learning through repeated practice of course material.
