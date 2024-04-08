@@ -34,6 +34,10 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 ### Database Management
 - [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccination events, and patient data for Corona vaccine distribution and treatment in Finland.
 
+### Business Intelligence
+- [Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis) - A comprehensive analysis of summer clothes sales performance on Wish.com. The project aims to dive deep into the sales data, revealing consumer preferences, pricing strategies, and the effectiveness of marketing efforts. The goal is to provide actionable insights and data-driven recommendations to enhance sales growth and customer satisfaction in the competitive e-commerce landscape.
+- [TripAdvisor Hotel Review Analysis](https://github.com/quan22022003/TripAdvisor-Hotel-Review-Analysis) - A detailed machine learning analysis of TripAdvisor hotel reviews, aiming to provide actionable insights for business intelligence applications. Utilizing the Weka machine learning toolkit, along with supplementary data processing in R and Python, this analysis addresses two critical scenarios: Predicting hotel ratings based on review texts and Determining the influence level of review authors.
+
 ### Decision Analysis/Operations Research
 - [Application of Multi-attribute Value Theory in Purchasing Plane Ticket](https://github.com/quan22022003/decision-making-project) - A project aimed to solve a decision problem - deciding which plane ticket to buy - by employing Multi-Attribute Value Theory (MAVT) and value-focused thinking approach.
 
