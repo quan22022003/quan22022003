@@ -30,6 +30,9 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 - [Modeling Esophagael Cancer from a Bayesian Perspective](https://github.com/quan22022003/Bayesian-Analysis-of-Esophageal-Cancer-Risk-Factors) - Modeling the probability of developing Esophagael Cancer with Bayesian Linear Logistic Regression method. Achieved an accuracy of 80%.
 - [Modelling Creditability: A Bayesian Approach](https://github.com/quan22022003/Modelling-Creditability-A-Bayesian-Approach) - Modelling Creditability of Customers from a German bank with Bayesian Logistic Regression method. Achieved a precision of 81%.
 - [Predictive Modeling for Sleep Efficiency](https://github.com/quan22022003/Predictive-Modeling-for-Sleep-Efficiency-Using-Machine-Learning) - Modeling Sleep Effiency with Linear Regression method. Achieved a low Mean-square Error of 0.027.
+- [Modeling Futures Volatility with BayesARCH](https://github.com/quan22022003/Modeling-Gold-Futures-Volatility-with-BayesARCH) - Modeling Gold Futures Volatility with Bayesian ARCH and GARCH model. Achieved a Mean-square Error of 0.386.
+- [Modeling Futures Volatility with BayesARCH](https://github.com/quan22022003/Credit-Card-Fraud-Detection-with-MCA-and-LDA) - Conducting a Statistical Analysis of Credit Card Fraud with MDA and LDA. Achieved a high Specificity of 0.99 with LDA.
+
 
 ### Database Management
 - [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccination events, and patient data for Corona vaccine distribution and treatment in Finland.
