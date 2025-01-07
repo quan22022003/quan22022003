@@ -13,7 +13,8 @@
 My name is Quan Tran, a math-oriented data science major at Aalto University. I have a passion for machine learning and a strong foundation in Mathematics, Statistics, and Programming. I am looking for internship and real-world project opportunities to enhance my industry experience.
 
 ## Education
-- Bachelor of Science in Data Science, Aalto University (Expected graduation: Dec 2024)
+- Master of Science in Machine Learning, Data Science, and Artificial Intelligence, Aalto University (Dec 2024 - Present)
+- Bachelor of Science in Data Science, Aalto University (Sep 2022 - Dec 2024)
 
 ## Skills
 - Programming language: Scala, C/C++, JavaScript, Rust
