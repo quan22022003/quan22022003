@@ -38,6 +38,9 @@ My name is Quan Tran, a math-oriented data science major at Aalto University. I 
 ### Database Management
 - [Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution/blob/main/README.md) - A database built to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of vaccination events, and patient data for Corona vaccine distribution and treatment in Finland.
 
+### Database Management
+- [Hedging Options with Real Data](https://github.com/quan22022003/Hedging-with-Real-Data) - Evaluation and comparison the effectiveness of delta and delta-vega hedging strategies using real-world S&P 500 options data to mitigate price and volatility risks, analyzing their performance under varying re-hedging frequencies and transaction costs.
+- 
 ### Business Intelligence
 - [Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis) - A comprehensive analysis of summer clothes sales performance on Wish.com. The project aims to dive deep into the sales data, revealing consumer preferences, pricing strategies, and the effectiveness of marketing efforts. The goal is to provide actionable insights and data-driven recommendations to enhance sales growth and customer satisfaction in the competitive e-commerce landscape.
 - [TripAdvisor Hotel Review Analysis](https://github.com/quan22022003/TripAdvisor-Hotel-Review-Analysis) - A detailed machine learning analysis of TripAdvisor hotel reviews, aiming to provide actionable insights for business intelligence applications. Utilizing the Weka machine learning toolkit, along with supplementary data processing in R and Python, this analysis addresses two critical scenarios: Predicting hotel ratings based on review texts and Determining the influence level of review authors.
